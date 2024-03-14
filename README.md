@@ -5,7 +5,7 @@ SUMMARY:
      This a raspberry 4/ZeroW robot (using parts from orb : https://openroboticplatform.com/ ) 
      controlled with Keyboards using VNC Viewer.
      video link is here : 
-     youtube: https://youtu.be/fuu9n4QBzs8
+     youtube: hKomt er zo aan
 WARNING!
 
 This project is ment to use with ORB (openroboticsplatform) 3d printed you can find on my github repository Link : https://github.com/Dawsatek22/Raspberry-pi-ORB-Keyboard-Controlled-Robot. parts : https://openroboticplatform.com/ (you can add also more partsfrom your projects there). i would recommend removing heatsinks on the pi so the hat can fit. i am at best a average programmer so troubleshooting not my specialty but pleas comment if you need my help.
