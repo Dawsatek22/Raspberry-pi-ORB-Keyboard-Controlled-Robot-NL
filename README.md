@@ -2,17 +2,18 @@
 
 SUMMARY:
 
-     This a raspberry 4/ZeroW robot (using parts from orb : https://openroboticplatform.com/ ) 
-     controlled with Keyboards using VNC Viewer.
+     Dit is een raspberry Pi4/Zero W Robot(using parts from orb : https://openroboticplatform.com/ ) 
+     bestuurt met Keyboard in  VNC Viewer:https://www.realvnc.com/en/connect/download/viewer/
      video link is here : 
      youtube: hKomt er zo aan
 WARNING!
 
-This project is ment to use with ORB (openroboticsplatform) 3d printed you can find on my github repository Link : https://github.com/Dawsatek22/Raspberry-pi-ORB-Keyboard-Controlled-Robot. parts : https://openroboticplatform.com/ (you can add also more partsfrom your projects there). i would recommend removing heatsinks on the pi so the hat can fit. i am at best a average programmer so troubleshooting not my specialty but pleas comment if you need my help.
+deze project is bedoeld om te gebruiken met (openroboticsplatform) 3d printed onderdelen die je kan vinden in de  github repository Link : [https://github.com/Dawsatek22/Raspberry-pi-ORB-Keyboard-Controlled-Robot.](https://github.com/Dawsatek22/Raspberry-pi-ORB-Keyboard-Controlled-Robot-NL/tree/main) parts  en de : https://openroboticplatform.com/ (je kan ook meer onderdelen toevoegen hiervan) ik raad aan om heatsink (als je dat hebt ). ik ben het best een gemilde programeur troubleshooting is niet mijn  specialiteit maar alsjeblieft
+comment als je hulp nodig hebt.
 
-look first if you can afford the projects parts (just advice).
+kijk eerst als je het project kunt veroorloven(mijn advies).
 
-the python code can look weird(see for yourself i dont know if it is the hardware or the software).
+de python code kan vreemd uitzien (zie voor jezelf ik weet niet of het de  hardware of de software is ).
 
            RECOMMENDED SKILLS REQUIRED     
 python programming ,using VNC viewer(i use that for the project),3d printing, screwing bolts,soldering(for dc motor an raspberry Pi Zero/ZeroW). Installing the robot-hat Module more info here : https://docs.sunfounder.com/projects/robot-hat-v4/en/latest/index.html .
