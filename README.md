@@ -1,12 +1,12 @@
 # Raspberry-pi-ORB-Keyboard-Controlled-Robot-NL
 
-SUMMARY:
+SAMENVATTING:
 
      Dit is een raspberry Pi4/Zero W Robot(using parts from orb : https://openroboticplatform.com/ ) 
      bestuurt met Keyboard in  VNC Viewer:https://www.realvnc.com/en/connect/download/viewer/
      video link is here : 
      youtube: hKomt er zo aan
-WARNING!
+WAARSCHUWING!
 
 deze project is bedoeld om te gebruiken met (openroboticsplatform) 3d printed onderdelen die je kan vinden in de  github repository Link : [https://github.com/Dawsatek22/Raspberry-pi-ORB-Keyboard-Controlled-Robot.](https://github.com/Dawsatek22/Raspberry-pi-ORB-Keyboard-Controlled-Robot-NL/tree/main) parts  en de : https://openroboticplatform.com/ (je kan ook meer onderdelen toevoegen hiervan) ik raad aan om heatsink (als je dat hebt ). ik ben het best een gemilde programeur troubleshooting is niet mijn  specialiteit maar alsjeblieft
 comment als je hulp nodig hebt.
@@ -15,18 +15,19 @@ kijk eerst als je het project kunt veroorloven(mijn advies).
 
 de python code kan vreemd uitzien (zie voor jezelf ik weet niet of het de  hardware of de software is ).
 
-           RECOMMENDED SKILLS REQUIRED     
-python programming ,using VNC viewer(i use that for the project),3d printing, screwing bolts,soldering(for dc motor an raspberry Pi Zero/ZeroW). Installing the robot-hat Module more info here : https://docs.sunfounder.com/projects/robot-hat-v4/en/latest/index.html .
+           AANGERADEN VAARDIGHEDEN:  
+python programming ,kennis van gebruiken VNC viewer(ik gebruik voor dit project),3d printing, bouten schroeven,solderen (voor de dc motor en mogelijk raspberry Pi Zero/ZeroW header). Installern van de robot-hat Module meer info hier : https://docs.sunfounder.com/projects/robot-hat-v4/en/latest/index.html .
 
-3D Printed PARTS NEEDED (PLA,PETG is optional) stl/3mf files are in the github link : https://github.com/Dawsatek22/Raspberry-pi-ORB-Keyboard-Controlled-Robot/tree/main/stl Or the ORB (openroboticplatform) link is here : https://openroboticplatform.com/ 1X dt22-72-d22.2to4wheelerplate.stl 1X jordan-25-Pi_Zero_Holder.3mf 1X dt22-68-batteryHolder6V-12-2X_18650.stl https://openroboticplatform.com/part:68.
+3D PRINTED ONDERDELEN NODIG:
+(PLA,PETG is optional) stl/3mf files zijn in  de github link : https://github.com/Dawsatek22/Raspberry-pi-ORB-Keyboard-Controlled-Robot/tree/main/stl Or the ORB (openroboticplatform) link is here : https://openroboticplatform.com/ 1X dt22-72-d22.2to4wheelerplate.stl 1X jordan-25-Pi_Zero_Holder.3mf 1X dt22-68-batteryHolder6V-12-2X_18650.stl https://openroboticplatform.com/part:68.
 
-          OPTIONAL:
+          OPTIONEEL:
 
           2x   nikodembartnik-11-tt_motor_wheel.3mf https://openroboticplatform.com/part:11.
           2x (if you have TPU) Two part wheel for TT motor 65mm https://openroboticplatform.com/part:46.
 
      THINGS YOU NEED:
-#links are for reference. laptop/pc (i use ubuntu to control the robot)
+#links zijn meer voor referentie. laptop/pc (ik gebruik Ubuntu Desktop LTS om de robot te besturen)
 
 1x 16 GB or higher micro sd card with raspberry Pi 4/Zero W compatable os installed(currently Raspberry PI recommended).
 
